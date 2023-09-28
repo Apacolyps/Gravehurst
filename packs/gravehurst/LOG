@@ -1,0 +1,8 @@
+2023/09/27-22:11:00.635 9438 Recovering log #109
+2023/09/27-22:11:00.637 9438 Delete type=0 #109
+2023/09/27-22:11:00.638 9438 Delete type=3 #107
+2023/09/27-22:22:59.892 72f4 Level-0 table #114: started
+2023/09/27-22:22:59.892 72f4 Level-0 table #114: 0 bytes OK
+2023/09/27-22:22:59.893 72f4 Delete type=0 #112
+2023/09/27-22:22:59.893 72f4 Manual compaction at level-0 from '!adventures!6833kUVx86xQTvDQ' @ 72057594037927935 : 1 .. '!adventures!6833kUVx86xQTvDQ' @ 0 : 0; will stop at (end)
+2023/09/27-22:22:59.893 72f4 Manual compaction at level-1 from '!adventures!6833kUVx86xQTvDQ' @ 72057594037927935 : 1 .. '!adventures!6833kUVx86xQTvDQ' @ 0 : 0; will stop at (end)

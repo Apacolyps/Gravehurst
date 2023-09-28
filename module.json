@@ -1,0 +1,50 @@
+{
+  "id": "gravehurst-a-halloween-adventure",
+  "title": "Gravehurst - A Halloween Adventure",
+  "version": "1.0.0",
+  "url": "https://github.com/Apacolyps/Gravehurst",
+  "manifest": "",
+  "download": "",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "Welcome to Gravehurst, an eerie village that rest near tainted grounds of necromantic magic. The players are escorting a merchant who wants to set up a trading post in this distant village but a problem arises, requiring the efforts of daring adventurers.\n\nCome on a Halloween journey where the players fight against pumpkins and other creatures infused with necromancy.\n\nThis three hour adventure is for characters between 3rd and 6th level. Since the damage and safety of characters in tiers 1 and 2 are vastly different, we have included scaling to the encounters.\n\nIn this adventure we have all new original content!\n\n• 9 NPCs\n\n• 5 monsters\n\n• 4 maps\n\n• 2 magic items\n\n• 1 awesome Halloween adventure!",
+  "authors": [
+    {
+      "name": "Zrave",
+      "discord": "zrave",
+      "email": "shadowlabgames@gmail.com",
+      "flags": {}
+    },
+    {
+      "name": "Apacolyps",
+      "discord": "apacolyps",
+      "email": "shadowlabgames@gmail.com",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "gravehurst",
+      "label": "Gravehurst",
+      "path": "packs/gravehurst",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ]
+}
